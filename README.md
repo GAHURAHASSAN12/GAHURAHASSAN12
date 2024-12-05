@@ -403,7 +403,7 @@
                <div class="container">
                   <div class="row">
                      <div class="col-md-10 offset-md-1">
-                        <p>© 2020 All Rights Reserved. Design by  <a href="https://html.design/"> Free Html Template</a></p>
+                        <p>© 2020 All Rights Reserved. Gahura Hassan</p>
                      </div>
                   </div>
                </div>
