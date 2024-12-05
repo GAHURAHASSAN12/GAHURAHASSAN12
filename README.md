@@ -34,8 +34,8 @@
       <div id="mySidepanel" class="sidepanel">
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
          <a class="active" href="index.html">Home</a>
-         <a href="about.html">About</a>
-         <a href="searvices.html">Searvices</a>
+         <a href="About.html">About</a>
+         <a href="services.html">Services</a>
          <a href="shop.html">Shop</a>
          <a href="contact.html">Contact</a>
       </div>
@@ -374,10 +374,10 @@
                      <div class="Informa conta">
                         <h3>Contact Us</h3>
                         <ul>
-                           <li> <a href="Javascript:void(0)"> (+71) 897648934
+                           <li> <a href="Javascript:void(0)"> (+256) 0759134270
                               </a>
                            </li>
-                           <li> <a href="Javascript:void(0)">  demo123@gmail.com
+                           <li> <a href="Javascript:void(0)">  glphaas@gamail.com
                               </a>
                            </li>
                         </ul>
